@@ -1,0 +1,96 @@
+Rencontre 1
+2019-08-29
+10h30
+Salle de réunion
+
+Ordre du jour
+1- Présentation du projet
+2- Restrictions technologiques
+3- Présentation d'une solution existante
+4- Nom du projet
+
+1- Présentation du projet
+Discuter des grandes lignes du projet. En quoi consiste le projet, les objectifs et la vision
+ClassCraft éléments intéressants :
+- Remettre des travaux à la date d'échéance
+- Aider des amis
+- Offrir des points à l'autre
+- Défis supplémentaires
+- Participation en classe
+- Bonne attitude
+- Partie humaine
+- Note de participation par les profs
+- Encourager au lieu de pénaliser
+- Récompenses
+- Système d'achievements
+- Points d'expériences, Level Up
+- Skins
+- Avatar, choisir quelles classes de personnage
+- Beaucoup de personnalisation
+- Donner envie aux étudiants et aux enseignants
+- Très rapide d'utilisation pour les enseignants
+- Bouclier (protéger quelqu'un d'autre, ajouter une journée de délai, etc.)
+- Augmenter la cohésion des groupes
+- Les récompenses sont gérés par le système et non les profs
+- Récompenses individuelles et récompenses de groupes
+- Notifications sur le cellulaire
+- Application mobile ou activer notifications de Teams
+- Ratio de succès (Comment distribuer les points, faire un standard de points)
+- Settings administrateur
+- Distribuer les points (liste de base + personnalisée)
+- Points cumulables d'années en années
+- Tutorat (payé en points pour faire du tutorat)
+- Examen de rattrapage
+- Incentives, Objectifs de groupe
+- Activité d'accueil
+- Capacité à aller chercher des points en dehors des cours
+- Participer aux élections du conseil étudiant
+- Plus que 100%, le surplus transféré en points
+- But : Implanté dans plusieurs départements 
+- Au début : Informatique et IMM
+- Prévoir projet par plusieurs départements
+- Incitation à revenir sur l'application, toujours avoir l'onglet ouvert
+- Rabais sur certains items (boucliers, etc.)
+- Classement début de l'année, classement de la semaine
+- Valoriser le bas de l'échelle
+- Avantages quand tu es en bas, Désavantages quand tu es en haut
+- Coûts moindres pour demander de l'aide aux personnes ayant des difficultés
+- Personne attitrée à aller faire une recherche sur les jeux (Créer une dépendance positive)
+- Remettre résultats
+- Bonus ex. tous remise de travaux à l'heure
+- Donner des récompenses (Drag N Drop)
+- Système de badges
+- Éléments visuels, îcones, pas de grosses listes
+- Associer les profs aux cours, voir avec le service informatique
+
+2- Restrictions technologiques
+Que sont les restrictions imposées au niveau des technologies utilisée (Selon les besoins)
+- Projet .NET
+- Projet WEB
+- BD MySQL + SQL Server
+- Administration à l'interne
+- Consultation, utilisation à l'externe
+- À toutes les heures ou demi-heures = mises à jour, juste ce que les étudiants ont besoins
+- Peut-être Azure
+- Droits de lecture pour Active Directory pour les logins
+- Console d'administrateur
+
+3- Présentation d'une solution existante
+- ClassCraft
+- Ne pas ressembler à une application de gestion
+- Très peu de pages
+- Faire une demande pour aller vérifier ClassCraft niveau collégial
+
+4- Nom du projet
+M.A.R.V.E.L
+
+Matériel
+Applicatif
+Récréatif
+Virtuel
+Éducatif
+Ludique
+
+5- Varia
+- Aller au fur et à mesure pour les rencontres
+- Faire des focus groupes avec des étudiants
