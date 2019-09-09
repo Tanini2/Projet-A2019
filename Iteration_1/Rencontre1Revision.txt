@@ -1,0 +1,62 @@
+But de l'application
+- Encourager au lieu de pénaliser
+- Être  intéressant pour les élèves comme les enseignants
+- Augmenter la cohésion des groupes
+- Implantation dans plusieurs départements
+- Valoriser le bas de l'échelle
+
+Ce qui peut donner des points
+- Remettre des travaux à la date d'échéance (Bonus si toute la classe le remet à temps)
+- Aider des amis
+- Défis supplémentaires
+- Participation en classe
+- Bonne attitude
+- Tutorat
+- Activité d'accueil
+- Participer aux élections du conseil étudiant
+- Plus que 100% dans un travaux, surplus transféré en points
+
+Concept
+- Récompenses
+- Système d'achievement
+- Points d'expérience
+- Level Up
+- Skins, Avatars, classes de personnage
+- Beaucoup de personnalisation
+- Bouclier
+- Points cumulables d'année en année
+- Examen de rattrapage
+- Incentives, Objectifs de groupes
+- Rabais sur items
+- Classement début de l'année, classement de la semaine
+- Avantages quand tu es en bas de classement, désavantages en haut
+- Système de badges
+- Éléments visuels, îcones, pas de grosses listes
+
+Points importants
+- Rapide et facile d'utilisation par les enseignants (en remettant les résultats) (Drag N Drop)
+- Récompenses gérées par le système (pas les profs)
+- Intégrer un système de notifications
+- Intégrer un ratio de succès
+- Analyser les options de l'administrateur
+- Comment distribuer les points (liste de base + personnalisés)
+- Capacité à aller chercher des points en dehors des cours (facteur humain)
+- Prévoir l'implication de plusieurs départements dans le projet
+- Trouver une façon d'inciter à toujours revenir sur l'application
+- Faire une recherche sur les jeux pour créer une dépendance positive
+- Trouver une façon d'associer les profs aux cours (Voir service informatique)
+- Aller vérifier ClassCraft niveau collégial
+- Faire des focus groupes avec des étudiants
+
+Restrictions technologiques
+- Projet .NET
+- Projet WEB
+- BD MySQL + SQL Server
+- Administration à l'interne
+- Consultation, utilisation à l'externe
+- Mises à jour (heure ou demi-heure)
+- PT Azure?
+- Droits de lecture pour Active Directory pour les logins (Service informatique)
+- Console d'administrateur
+
+Nom du Projet : M.A.R.V.E.L
