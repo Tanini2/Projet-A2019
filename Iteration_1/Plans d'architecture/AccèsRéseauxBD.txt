@@ -1,0 +1,35 @@
+FTP - dicj.info
+Informations de connexion
+Utilisateur : P2019@dicj.info
+Mot de passe : ProjCVB19!
+
+Gestion via l'application locale FileZilla (https://filezilla-project.org/)
+Serveur : ftp.dicj.info
+Port : 21 (standard)
+
+Accès WEB
+http://www.dicj.info/etu/p2019
+
+Base de données MySQL - dicj.info
+Informations de connexion
+Utilisateur : cegepjon_p2019
+Mot de passe : ProjFGH19!
+Base de données : cegepjon_p2019-dev et cegepjon_p2019-prod
+
+Gestion via WEB
+https://www.dicj.info/phpmyadmin
+
+Gestion via application locale - MySQL Workbench
+https://www.mysql.com/fr/products/workbench/
+Serveur : dicj.info
+Port : 3306 (standard)
+
+Base de données SQL Server (DEPTINFO420)
+Informations de connexion
+Utilisateur : P2019DBA
+Mot de passe : ProjFGH19!
+Bases de données : À créer par vous-même, suggestion de nom : p2019-dev et p2019-prod
+
+Gestion via l'application locale - SQL Server Management Studio
+Serveur : deptinfo420
+Authentification : SQL Server
