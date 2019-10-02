@@ -1,0 +1,46 @@
+﻿Termes à définir :
+Types de points
+- XP (réussir un cours, effets secondaires d'une récompense)(encourage l'avancement académique)
+- Système monétaire (ex. écus, bitcoins, etc. monnaie à définir)(encourage le savoir-être)
+Types de Transactions
+- Récompenses (entre le prof et le/les étudiants) (décorations, médailles, mentions, trophées) (le prof donne des points à son/ses élèves)
+- Récompenses personnelles
+- Récompenses de groupe
+- Offres de service (quelqu'un pour combler un besoin)
+- Achats (lootboxes, items)
+- Privilèges (ex. boucliers, LAN, etc.)
+- Récompenses automatiques (ex. sondages, connexions journalières, présences, points de base, lootboxes de base)
+Pool
+- Pour différencier du groupe. Ex. fonds
+Motifs = raison pour donner une récompense
+Profil
+- Avatar 
+- Points XP
+- Inventaire (taille de l'inventaire, catégories, nb max par item)
+- Solde
+- Liste des groupes (pools)
+- Tableau de récompenses
+- Historiques des transactions
+Magasin
+- Transactions
+- Items (catégories, systèmes de rareté) et lootboxes (types, niveaux)
+- Liste des groupes
+- Vue différente prof/étudiant?
+Informations supplémentaires
+- XP pas transférables
+- XP ne devrait pas être géré directement par le professeur
+Zones d'accumulations (cagnotte = nb max de points que le prof peut donner à ses élèves)
+- Chaque prof/cours a une cagnotte (fonds de transactions pour les récompenses)
+Thème
+- Faire attention pour pas ressembler à ClassCraft
+- Peut-être pas un avatar, peut être une ville, collectionner des cartes pour un jeu, collectionner des cartes postales, jardinage, ingrédients pour une recette, etc.)
+- Trouver un but à l'avatar?
+- Comment rendre l'application dynamique (ex. évènements chaque semaine). Trouver quelque chose qui fait que les étudiants veulent revenir
+- Scripter les avatars
+Rôles
+- Administrateur -> Gérer le système (Assigner profs aux cours, gestion des cagnottes)
+- Gestionnaire de contenu -> Gestions des récompenses communes, gestion du magasin, gestion des rabais
+- Étudiant -> Dépenser des points
+- Professeur -> Gère leurs cours, donne des récompenses
+- Pédagogique -> Vue globale de l'état du système, créer les sondages
+- Visiteur -> Évaluer ce que le visiteur voit (top 3 avatars pas associés à un nom, dashboard, XP attribués cette semaine)
