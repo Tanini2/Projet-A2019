@@ -1,0 +1,37 @@
+1. Glossaire de groupe
+Privilège
+Récompense
+Cosmétique
+Transaction no et description
+Argent = capital
+MicroTransaction -> Privilèges de groupe
+XP niveau
+niveau donne accès à des cosmétiques plus importants
+missions donne de l'XP et de
+2. Liste des thèmes
+Évolution de dragons ou autres. 
+Collections de cartes
+Skins
+-> Grade
+Agriculture
+- Plante
+Construction
+Colonisation
+Style 60 Secondes
+Chimie
+Cuisine
+-> Chef plusieurs grades
+-> Recettes pour étudiants
+Super-héros
+Thème adapté à chaque département
+-> Avatar + skins spécifiques à l'informatique
+-> Section département dans le magasin
+Environnement collégial 
+->Même principe, nb de points, niveau, cours au Participe ou cours en anglais
+->Plus dans le genre des privilèges
+Pas de thème, juste des compétitions
+-> Classement
+-> Différentes compétitions (meilleure note, temps pour le remettre)
+Gestion restaurants dans un centre commercial
+Collectionner des voitures, modifier une voiture
+

@@ -1,0 +1,28 @@
+LISTE DES EPIC À FAIRE
+1. Modèle des transactions v1 (Analyse)
+2. Récit utilisateur (Gestion des privilèges)/ Diagramme de séquences système. 1 doc / ÉPIC
+3. Schéma de division des technologies
+4. Mise à jour de la documentation de l'analyse globale (Éric)
+5. Choix du thème
+- Étude de marché (Intérêt) Info, IMM, SIM
+- Une phrase dans l'analyse globale
+6. Structure de navigation / Structure des sites (Découpage principal) / Menu
+7. XP vs niveaux vs points (analyse) / Glossaire
+8. BD Globale (finale)
+- Base de réflexion
+9. BD itération
+10. Prototype Module "Sync"
+11. Stratégie de tests
+12. Glossaire / Wiki (Analyse structurelle)
+13. Méthode de documentation
+14. Modèle BD (Scripts)
+- Final automne 2019
+
+Points importants à faire Itération 2
+1, 2, 3, 5, 7, 10, 12 (juste liste des termes)
+
+Point à faire Itération 3
+11, 13, 12 (structure), 14, 6
+
+Objectif de sprint 2 :
+- Gestion de privilèges de base fonctionnelle

@@ -1,0 +1,26 @@
+Modèle de transaction
+Module gestion des privilèges (Doc d'analyse)
+- Définir un privilège
+- User stories
+- Diagramme de séquences
+Schémas technologiques
+Choix du thème
+XP vs Niveau vs Points
+BD Globale dans le document d'analyse globale (pré-finale)
+Module Sync
+- Doc d'analyse
+Refaire le glossaire au propre OK
+Update analyse globale
+
+À régler cette semaine
+Choix du thème
+Gestion des privilèges
+Module Sync
+Refaire le glossaire au propre OK
+
+À régler la semaine prochaine
+Modèle de transaction
+Schémas technologiques
+XP vs Niveau vs Points
+BD Globale
+Update analyse globale
