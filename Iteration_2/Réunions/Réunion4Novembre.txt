@@ -1,0 +1,27 @@
+À faire aujourd'hui
+-SCRUM
+--On est rendu où?
+Nico
+- Rien fait en fin de semaine
+- Va finir le module Sync et le doc d'analyse aujourd'hui
+Cédric
+- Tâches complètement terminées
+- Powerpoint en cours. Ses parties sont faites, il reste les nôtres
+- Plus rien à faire
+Clément
+- Définition de privilèges
+- Diagramme de séquences modifiés
+- Reste à faire quelques diagrammes de séquence
+- Changer définition du privilège
+- Reste à faire le schéma techno
+Tanya
+- Rien fait de la fin de semaine
+- MOdifier PHP
+- Update analyse globale
+--Ce qu'il reste à faire + planification
+--Feuille de temps
+--Vérification Trello
+---Rediviser les tâches si nécessaire
+---Faire vérifier les tâches en validation finale par Éric/Rebecca
+--Termes à re-vérifier
+--Questions/Varia
