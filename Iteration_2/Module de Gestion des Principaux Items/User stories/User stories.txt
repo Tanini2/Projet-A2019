@@ -1,0 +1,71 @@
+-Le professeur peut créer une mission qui est vu par tous. 
+
+-Le professeur peut supprimer une mission qui est vu par tous. 
+
+-Le professeur peut modifier une mission qui est vu par tous.
+
+-Le professeur peut consulter une mission. 
+
+-Le professeur peut consulter les privilèges disponibles par le biais de recherche et de trie. 
+
+Professeur
+Le professeur peut consulter les transactions relié a son groupe. 
+
+Le professeur peut consulter un évènement.
+
+Le professeur peut activer un privilège.
+
+
+Étudiant
+L'étudiant peut consulter les privilèges par le biais de recherche et de trie(même principe que les assets sauf qu'il n'y a pas de rareté). 
+
+L'étudiant peut acheter un privilège. 
+
+L'étudiant peut consulter une mission.
+
+L'étudiant peut contribuer a une mission fait par le professeur, il recevera des infos tout au long de la procédure. 
+
+L'étudiant peut consulter un évènement.
+
+L'étudiant peut contribuer un évènement.
+
+L'étudiant peut gèrer son panier (enlever du contenu/en mettre) avant de passer à l'achat. 
+
+
+
+
+Visiteur
+Le visiteur n'a pas accès au magasin donc il n'a pas accès aux privilèges. 
+
+Gestionnaire de contenu
+En tant que gestionnaire de contenu j'ai la possibilité de consulter les modèles de privilèges
+
+En tant que gestionnaire de contenu j'ai la possibilité de consulter les modèles de mission
+
+RCP
+En tant que responsable du programme j'ai la possibilité de consulter les modèles de privilèges
+
+En tant que responsable du programme j'ai la possibilité de consulter les modèles de mission
+
+En tant que responsable du programme j'ai la possibilité de créée des évènements
+
+En tant que responsable du programme j'ai la possibilité de modifié des évènements
+
+En tant que responsable du programme j'ai la possibilité de supprimer des évènements
+
+Administrateur
+En tant qu'administrateur j'ai la possibilité de consulter les modèles de privilèges
+
+En tant qu'administrateur j'ai la possibilité de consulter les modèles de mission
+
+En tant qu'administrateur j'ai la possibilité d'ajouter des modèles de mission 
+
+En tant qu'administrateur j'ai la possibilité de modifier des modèles de mission 
+
+En tant qu'administrateur j'ai la possibilité de supprimer des modèles de mission 
+
+En tant qu'administrateur j'ai la possibilité d'ajouter des modèles de privilèges 
+
+En tant qu'administrateur j'ai la possibilité de modifier des modèles de privilèges 
+
+En tant qu'administrateur j'ai la possibilité de supprimer des modèles de privilèges
