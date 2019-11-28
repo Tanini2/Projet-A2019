@@ -1,0 +1,37 @@
+Par page, puis par ordre logique 
+
+Page assets (liste d'assets disponibles)
+1. Aller chercher les assets disponibles (assets avec statut actif)
+2. Aller chercher les catégories (si on rajoute des catégories, dynamique plutôt que hard-coder)
+3. Afficher les sections (catégories)
+4. Afficher les assets disponibles
+
+Page Transactions/Profil Étudiant/Inventaire
+1. Aller chercher les transactions
+2. Aller chercher le profil
+3. Aller chercher les assets de l'inventaire
+4. Afficher les transactions
+5. Afficher le profil (champs table Étudiant dans la BD)
+6. Afficher les assets de l'inventaire de l'étudiant
+7. Programmez le bouton Refresh (Pour voir les nouvelles transactions et l'asset ajouté à l'inventaire de l'étudiant)
+
+Page Lootbox
+1. Aller chercher les lootboxes
+2. Vérifier argent étudiant
+3. Griser lootbox et désactiver boutons "Acheter"
+Quand on clique sur une lootbox
+4. Aller chercher infos de la lootbox + assets disponibles dans la lootbox (Mettre des logs)
+5. Vérifier inventaire et décider s'il peut ou non l'acheter (uniques)
+6. Choisir asset aléatoire
+7. Vérifier doublons
+8. Vérifier argent pour reroll
+9. Reroll sans doublons
+10. Créer une nouvelle transaction
+11. Insérer la nouvelle transaction dans la BD
+12. Ajouter asset dans inventaire 
+
+Général
+Arranger le stockage d'images (Quel FTP?)
+Ajouter les images dans le FTP
+Faire la structure du wiki 
+Calculer le champ argent (Fortune? Champs calculé?)
