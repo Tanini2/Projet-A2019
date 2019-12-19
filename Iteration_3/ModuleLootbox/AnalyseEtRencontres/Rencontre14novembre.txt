@@ -1,0 +1,43 @@
+1. Assets (Tanya) (Semaine 2)
+- BD 5
+- Classe 6
+- Catégories 2
+- Définition 1
+- Système de rareté 3
+- Stockage image 4
+
+2. Transaction (Semaine 3)
+- Vue ProfilÉtudiant 5
+- Avant ou après achat 2
+- Disponibles (argent) 6
+- Points vs XP 1
+- BD 3
+- Lootboxes de base 4
+- Classe
+
+3. Lootbox (Cédric) (Semaine 2)
+- Catégorie 2
+- Définition 1
+- BD 5
+- Rareté 3
+- États 4
+- Classe 6
+
+4. Gestionnaire de lootbox (Semaine 3)
+- Doublons 2
+- Argent nécessaire 3
+- Cas problèmes 1
+- Désactivation de lootbox 2
+- Validation 3
+- Classe
+- Générer diagrammes de classe
+
+5. Link avec module Sync (Semaine 4)
+- Cas problèmes 1
+
+6. Wiki (Semaine 2)(Tanya)
+- Structure de Wiki 
+
+7. Étudiant (Semaine 2)(Tanya)
+- Base de données
+- Classe

@@ -1,0 +1,21 @@
+Partie Étudiant
+- Une table EtudiantTest a été modélisée pour combler les besoins de ce module, dans l'ensemble du système, 
+cette table n'existera plus et/ou sera fusionnée en une table d'utlisateurs contenant étudiants, professeurs et autres utilisateurs.
+Cette partie sera donc à revoir lorsqu'une modélisation globale de la base de données sera étudiée et approuvée.
+
+Partie Ressource et Lootbox
+- Puisque le Module de Ressource n'a pas été développé, nous avons séparé les ressources et les lootbox en deux pages différentes.
+Il est à noter que dans les versions futures de M.A.R.V.E.L, ces deux modules seront regroupés ensemble dans un magasin commun.
+De plus, les ressources utilisées pour le prototype sont fictives et ne correspondent pas au thème choisi pour l'application. 
+Il faudrait trouver un graphisme pour faire une première ébauche des ressources qui seraient conformes au thème choisi.
+Le prix des ressources et des lootbox sera à revoir lorsque le Module Récompense sera analysé et développé.
+
+Partie Transaction
+- La partie Transaction est incomplète. Seules les parties nécessaires pour le Module de Lootbox ont été modélisées et développées.
+Ainsi, la table TransactionTest disparaîtra avec l'évolution de l'application pour devenir le Module Récompense. 
+De plus, les étudiants ont droit à un montant de 200$ lors de l'inscription à l'application. 
+Pour gérer cela, il serait bien de créer un TRIGGER sur la base de données MySQL dans les transactions. Ce type de transaction est
+pour l'instant dans la table TransactionTest, il sera donc bien de créer un nouveau type de transaction pour combler ce manque.
+Le terme IdBanque est utilisé comme source et/ou destinaire dépendamment de la transaction. Pour l'instant, cette partie est codée à la main,
+("string hard-codée"), la banque n'étant pas une entité définie lorsque nous avons développé notre Module. Cette partie sera à changer lorsqu'une
+modélisation globale de la base de données sera étudiée et approuvée (partie utilisateurs).

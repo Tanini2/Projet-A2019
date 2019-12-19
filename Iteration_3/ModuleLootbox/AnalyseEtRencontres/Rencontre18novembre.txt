@@ -1,0 +1,34 @@
+Points à discuter
+1 - États des lootboxes
+2 - États des transactions
+3 - Pts vs XP
+4 - Cas Problèmes
+5 - Catégorie Évolution (Pas de lootboxes?). Peut acheter seulement si l'étudiant a l'objet de carte de base
+
+1. Charger seulement les ressources qui sont actives
+Champ statut (char3) statut bidon ACT
+
+2. Faire un champ état dans la table transaction pour les autres transactions qui ne sont pas directes (ex. mission)
+
+3. Pts vs XP
+3 sortes de monnaies
+- Points -> Privilèges, Missions et Évènements
+- XP -> Monter de niveau
+- Fortune -> Même chose que XP, mais pour acheter des assets et des lootboxes
+
+4. Cas problèmes
+Si la personne a pas assez d'argent, lootbox grisée + validation dans transaction
+Si la personne a toute et que toutes les possibilités sont uniques : Grisé la lootboxe
+Si la personne a toute mais pas uniques -> Doublons automatiques
+Si la personne achète une lootboxe, mais pas assez d'argent pour sans doublons -> doublons automatiques
+Si la personne achète une lootboxe et a assez d'argent pour sans doublons -> Reroll sans doublons
+Possibilité d'avoir plus d'argent que ce qui est gagné mais très très rare
+
+5. Catégorie Évolution pas de lootboxes
+
+Varia : Validation argent dans transaction
+Génère ressource
+Transaction
+Si fonctionne -> Affichage, mettre dans inventaire
+Si fonctionne pas, dire pas assez d'agent
+Donc INSERT juste après la transaction
