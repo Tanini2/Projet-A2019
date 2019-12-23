@@ -9,6 +9,8 @@ Il est à noter que dans les versions futures de M.A.R.V.E.L, ces deux modules se
 De plus, les ressources utilisées pour le prototype sont fictives et ne correspondent pas au thème choisi pour l'application. 
 Il faudrait trouver un graphisme pour faire une première ébauche des ressources qui seraient conformes au thème choisi.
 Le prix des ressources et des lootbox sera à revoir lorsque le Module Récompense sera analysé et développé.
+- Pour l'instant, on affiche le lien des ressources, on devra changer cela lorsque les images auront été implémentées dans le dossier de stockage
+d'images. Il sera important de structurer le dossier selon les liens des images, soit en sous-dossiers.
 
 Partie Transaction
 - La partie Transaction est incomplète. Seules les parties nécessaires pour le Module de Lootbox ont été modélisées et développées.
